@@ -1,0 +1,10 @@
+Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=TechCart;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+
+packages
+
+
+ms.EntityFrameworkCore.SqlServer
+
+ms.EntityFrameworkCore.Tools
